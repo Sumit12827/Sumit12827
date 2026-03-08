@@ -13,10 +13,10 @@
 # Hi there 👋 I'm Sumit
 
 ## 🧑‍💻 About Me
-> Third-year Computer Science Engineering student passionate about building real-world technology solutions.
+> Third-year Computer Science Engineering student at Galgotias University, Greater Noida with a passion for web development, iOS, and Data Structures and Algorithms
 
 I enjoy developing applications that solve real problems and improve user experience.  
-I am currently exploring **Web Development, iOS Development, and Artificial Intelligence** while strengthening my **Data Structures & Algorithms** skills.
+I am currently exploring **Web Development, iOS Development, and Data Structures and Algorithms** while strengthening my **Data Structures & Algorithms** skills.
 
 I believe in learning by building projects and continuously improving through practice.
 
