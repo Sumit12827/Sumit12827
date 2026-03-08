@@ -10,9 +10,9 @@
 
 </div>
 
-# Hi there 👋 I'm Sumit
 
 ## 🧑‍💻 About Me
+
 > Third-year Computer Science Engineering student at Galgotias University, Greater Noida with a passion for web development, iOS, and Data Structures and Algorithms
 
 I enjoy developing applications that solve real problems and improve user experience.  
