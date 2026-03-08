@@ -9,6 +9,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" height="280px">
 
 </div>
+
+# Hi there 👋 I'm Sumit
+
+## 🧑‍💻 About Me
+> Third-year Computer Science Engineering student passionate about building real-world technology solutions.
+
+I enjoy developing applications that solve real problems and improve user experience.  
+I am currently exploring **Web Development, iOS Development, and Artificial Intelligence** while strengthening my **Data Structures & Algorithms** skills.
+
+I believe in learning by building projects and continuously improving through practice.
+
+---
+
 <!--
 **Sumit12827/Sumit12827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
