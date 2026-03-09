@@ -80,12 +80,14 @@ I believe in learning by building projects and continuously improving through pr
   
   </div>
 
-## 📊 GitHub Stats
+  ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night" width="700" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit12827&theme=tokyo-night" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sumit12827&theme=tokyonight" height="165" />
 </p>
 
 <!-- <p align="center">
