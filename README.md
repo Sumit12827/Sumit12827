@@ -94,9 +94,13 @@ I believe in learning by building projects and continuously improving through pr
   <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight"/>
 </p> -->
 
- <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together&author=Vincent%20van%20Gogh&theme=radical&type=horizontal" />
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%20it%20is%20bad&author=Cory%20House&theme=radical&type=horizontal" />
 </div>
+
+<!-- <div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together&author=Vincent%20van%20Gogh&theme=radical&type=horizontal" />
+</div> -->
 
 ## 🤝 Connect With Me 
 
