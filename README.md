@@ -95,7 +95,7 @@ I believe in learning by building projects and continuously improving through pr
 </p> -->
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%20it%20is%20bad&author=Cory%20House&theme=radical&type=horizontal" />
+<img src="https://quotes-github-readme.vercel.app/api?quote=Programs%20must%20be%20written%20for%20people%20to%20read%20and%20only%20incidentally%20for%20machines%20to%20execute&author=Harold%20Abelson&theme=radical&type=horizontal" />
 </div>
 
 <!-- <div align="center">
