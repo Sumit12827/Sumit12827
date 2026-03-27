@@ -28,7 +28,7 @@ I believe in learning by building projects and continuously improving through pr
 📱 Exploring iOS development with Swift and SwiftUI  
 🚀 Creating projects to apply what I learn
 
-## 💼 Technical Stack  
+## 💼 Technical Stack   
 
 <div align="center"> 
   
