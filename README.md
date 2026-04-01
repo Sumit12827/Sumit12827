@@ -26,7 +26,7 @@ I believe in learning by building projects and continuously improving through pr
 🌱 Improving problem-solving with Data Structures & Algorithms  
 🌐 Building web applications and learning full-stack development  
 📱 Exploring iOS development with Swift and SwiftUI  
-🚀 Creating projects to apply what I learn
+🚀 Creating projects to apply what I learn 
 
 ## 💼 Technical Stack   
 
