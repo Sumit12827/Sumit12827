@@ -1,4 +1,4 @@
-<div align="center">           
+<div align="center">             
 <h1>  Sumit </h2>   
 <p align="center">
   <a href="https://git.io/typing-svg">
