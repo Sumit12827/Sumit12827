@@ -82,7 +82,7 @@ I believe in learning by building projects and continuously improving through pr
   
   </div>
 
-  ## 📊 GitHub Stats
+  ## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit12827&theme=tokyo-night" width="700" />
