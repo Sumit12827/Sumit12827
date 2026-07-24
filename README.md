@@ -1,7 +1,7 @@
 <div align="center">             
 <h1>  Sumit </h2>     
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=300&color=00BFFF&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast" />
   </a>
 </p>  
